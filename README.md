@@ -3,7 +3,7 @@
 Seeduino XIAO based Mouse Jiggler using Circuit Python.
 
 ### Install Instructions:
-1. Download and extract [latest release](https://github.com/akhilharihar/xiao_jiggler/releases/latest)
+1. Download and extract `xiao_jiggler.zip` from [latest release](https://github.com/akhilharihar/xiao_jiggler/releases/latest)
 
 2. Connect your Seeeduino XIAO to your PC and quickly short the RST pins twice. An external drive with name `Arduino` will appear on your PC.
 
